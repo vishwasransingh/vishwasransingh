@@ -1,9 +1,7 @@
 <!--<h1>Hello, I'm Vishwas!</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;BE+IT+%7C+Pune+University;Enjoy+Learning+New+Things;Fond+of+Computers;Love+Solving+Problems" alt="Typing SVG" /></a> -->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!--<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>👋 Hello! I'm Vishwas</title>
@@ -43,12 +41,13 @@
             background-color: #0056b3;
         }
     </style>
-</head>
+</head>-->
 <body>
     <div class="container">
         <h1>👋 Hello! I'm Vishwas</h1>
         <p>Welcome to my GitHub profile. I'm passionate about Programming.</p>
         <a class="btn" href="https://www.linkedin.com/in/vishwas-ransing-629610168">LinkedIn</a>
+        |
        <a class="btn" href="https://www.hackerrank.com/vishwasransing">HackerRank</a>
         <br><br>
         <!--<h2>🚀 My Projects</h2>
@@ -68,5 +67,3 @@
         <h2>📫 Get in Touch</h2>
         <p>You can reach me at [Your Email Address]. Let's connect!</p> -->
     </div>
-</body>
-</html>
