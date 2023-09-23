@@ -63,7 +63,7 @@
         <br>
         <h2>💼 Skills</h2>
         <p>[List of your skills, e.g., Programming Languages, Frameworks, Tools]</p>
-        <br>
+        <br> -->
         <h2>📫 Get in Touch</h2>
-        <p>You can reach me at [Your Email Address]. Let's connect!</p> -->
+        <p>You can reach me at vishwasransing@gmail.com. Let's connect!</p>
     </div>
