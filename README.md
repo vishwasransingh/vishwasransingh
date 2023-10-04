@@ -1,7 +1,7 @@
 <body>
     <div class="container">
         <h1>👋 Hello! I'm Vishwas</h1>
-        <p>A passionate programmer and a perpetual student.</p>
+        <p></p>
         <a class="btn" href="https://www.linkedin.com/in/vishwas-ransing-629610168">LinkedIn</a>
         |
        <a class="btn" href="https://www.hackerrank.com/vishwasransing">HackerRank</a>
