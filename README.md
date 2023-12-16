@@ -4,15 +4,13 @@
     |
    <a class="btn" href="https://www.hackerrank.com/vishwasransing">HackerRank</a>
     <br><br>
-    <!--<h2>🚀 My Projects</h2>
-    <p>Here are some of my featured projects:</p>
+    <h2>Latest Projects</h2>
     <ul>
         <li>
-            <strong>[Project Name]</strong> - [Description]
+            <strong><a href="https://github.com/vishwasransingh/todo-manager">Todo Manager</a></strong>
             <br>
-            [GitHub Repository Link]
         </li>
-    </ul>-->
+    </ul>
     <br>
 <h3>I code with</h3>
 <p>
@@ -38,10 +36,17 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white&labelColor=grey">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=Git&logoColor=white&labelColor=grey">
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white&labelColor=grey">
-
-
-
 </p>
+
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://www.linkedin.com/posts/vishwas-ransing-629610168_javaprogramming-exceptionhandling-codingtips-activity-7140570154043645953-5-2c?utm_source=share&utm_medium=member_desktop">Navigating Java Error Handling</li>
+ <li><a href="https://www.linkedin.com/posts/vishwas-ransing-629610168_springboot-java-tipsforbeginners-activity-7114524912014262272-lOP-?utm_source=share&utm_medium=member_desktop">Getting Familiar With Spring Beans</li>
+ <li><a href="https://www.linkedin.com/posts/vishwas-ransing-629610168_java21-codinginjava-collectionsutility-activity-7110181792141242369-MlHy?utm_source=share&utm_medium=member_desktop">Exploring Java 21's Latest Collection Methods</li>
+ <li><a href="https://www.linkedin.com/posts/vishwas-ransing-629610168_webdevelopment-servlets-getrequest-activity-7107650121525317632-2f7d?utm_source=share&utm_medium=member_desktop">Understanding GET and POST Requests</li>
+      
+      
+</ul>
 <br>
 <h2>📫 Get in Touch</h2>
 <p>You can reach me at vishwasransing@gmail.com. Let's connect!</p>
