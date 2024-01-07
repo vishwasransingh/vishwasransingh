@@ -7,6 +7,9 @@
     <h2>Latest Projects</h2>
     <ul>
         <li>
+            <strong><a href="https://github.com/vishwasransingh/task-manager.git">Full Stack Task Manager App</a></strong>
+        </li>
+        <li>
             <strong><a href="https://github.com/vishwasransingh/todo-manager">Todo Manager</a></strong>
             <br>
         </li>
