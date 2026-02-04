@@ -1,4 +1,4 @@
-<h1>👋 Hello! I'm Vishwas, Java Full Stack Developer from Maharashtra, India.</h1>
+<h1>👋 Hello! I'm Vishwas, Software Developer from Maharashtra, India.</h1>
     <p></p>
     <a class="btn" href="https://www.linkedin.com/in/vishwas-ransing-629610168">LinkedIn</a>
     |
